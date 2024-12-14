@@ -1,2 +1,2 @@
-# Silk-Stocking-Shader
+# Silk Stocking Shader
 A Unity shader using Fresnel effect.
